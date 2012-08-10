@@ -1,0 +1,11 @@
+# git ignore file
+*Resharper*
+*ReSharper*
+*.suo*
+*.user
+*/obj/*
+*/bin/*
+packages/*
+*.DS_Store
+*.user
+src/*/csx/*
